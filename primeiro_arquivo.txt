@@ -1,0 +1,16 @@
+O Git  é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas que pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo. As principais funções dessa ferramenta são:
+
+Permite que os desenvolvedores trabalhem simultaneamente.
+Não permite substituir as alterações um do outro.
+Mantém um histórico de todas as versões.
+É um sistema de controle de versão descentralizado.
+Caso você queira obter a cópia de um repositório Git existente – por exemplo, um projeto que você queira contribuir – o comando para isso é git clone.
+Para visualizar o status dos seus arquivos, é usado o comando:
+
+git status
+É possível observar as mudanças feitas em arquivos monitorados modificados através do comando:
+
+git diff
+Para verificar o histórico dos commits efetuados em determinado repositório, existe o comando:
+
+git log
